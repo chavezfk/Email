@@ -1,0 +1,4 @@
+name: Email
+main: nmt.minecraft.chavezfk.Email.Email
+version: 1.00
+description: Email system for Minecraft between players who are online and offline
